@@ -5,7 +5,9 @@ Overview
 This is a simple "Hello, World!" program written in Java. It serves as a basic introduction to Java programming and can be used as a starting point for learning Java or testing your development environment.
 
 
-Java Variables
+# Java Variables
+
+
 Variables are containers for storing data values.
 
 In Java, there are different types of variables, for example:
