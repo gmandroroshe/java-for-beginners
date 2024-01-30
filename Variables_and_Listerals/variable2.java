@@ -16,9 +16,10 @@ public class variable2 {
         value = 5 ;
 
         System.out.print("The value is ");
-        System.out.println("value");  //not a variable name 
+        System.out.println("value");  //not a variable name //program output is (The value is value)
+        System.out.println(value);  //Now value is a variable name 
 
-        //program output is (The value is value)
+        
         
 
     }
