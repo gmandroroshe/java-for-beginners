@@ -19,6 +19,6 @@ public class javascanner {
         System.out.println(number); 
         System.out.println(name01); 
         System.out.println(date); 
-        System.out.println(age); 
+        System.out.println(age);  
     }
 }

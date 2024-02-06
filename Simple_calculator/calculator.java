@@ -21,6 +21,8 @@ public class calculator {
 
          System.out.println("Your Anser is : " + ans);
          
+        
+         
 
 
     }
