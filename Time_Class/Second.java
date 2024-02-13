@@ -17,5 +17,8 @@ public class Second {
         return String.format("%02d:%02d:%02d", hous,minute,second);
 
     }
+    public String RegularTime(){
+        return String.format("%d:%02d %s", ((hous == 0 || hous ==12) ? 12: hous%12  ),minute,second, (hous<12 ? "AM" : "PM") );
+    }
     
 }

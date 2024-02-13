@@ -5,9 +5,13 @@ public class first {
         
         Second object = new Second();
 
+        System.out.println(object.standedtime());
+        System.out.println(object.RegularTime() ); 
+
         
         object.settime(10, 20, 54); 
-        System.out.println(object.standedtime()); 
+        System.out.println(object.standedtime());  
+        System.out.println(object.RegularTime() );   
     }
     
 }
