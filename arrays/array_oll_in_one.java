@@ -14,6 +14,13 @@ public class array_oll_in_one {
 
         System.out.println(Names);
         System.out.println(Numbers); 
+
+        // Access the Elements of an Array 
+
+        System.out.println(Names[0]);
+        System.out.println(Numbers[0]);
+
+        
     }
     
 }
