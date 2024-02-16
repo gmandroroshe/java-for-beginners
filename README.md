@@ -22,3 +22,5 @@ boolean - stores values with two states: true or false
 
 To describe each characteristic of a particle separately
 Arrays are used
+[Cheak.java](https://vscode.dev/github/gmandroroshe/java-for-beginners/blob/main/Cheak.java)
+https://vscode.dev/github/gmandroroshe/java-for-beginners/blob/main/arrays/array_oll_in_one.java
