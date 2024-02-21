@@ -1,5 +1,8 @@
 package Enumeration;
 
-public class second {
+public enum second {
+
+    MADURANGA
+
     
 }

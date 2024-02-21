@@ -15,6 +15,7 @@ public class first {
         System.out.println(NAME);
         System.out.println(pepole.KAVINDU);
         System.out.println(world.HELLO_WORLD); 
+        System.out.println(second.MADURANGA);  
     }
     
 }
